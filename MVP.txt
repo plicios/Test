@@ -1,0 +1,34 @@
+Requiremnts for MVP:
+1. Backend:
+    - Database of questions.
+    - API sends a random questions
+    - API sends a set of questions with specified amount or value
+
+2. Frontend:
+    - question should be displayed
+    - List of questions is displayed
+    - List of questions can be downloaded as a regular file
+
+
+First iteration:
+1. Backend:
+    - Database of questions.
+    - API should send a random questions
+    - 
+
+2. Frontend:
+    - question should be displayed
+    - 
+
+
+BE: Export test as a pdf(or any other type of file)
+FE: Downloading a test as a pdf button(or any other type of file).
+
+BE: API has to allow to receive the amount of questions
+FE: User can input the amount of questions
+
+User specifies the amount of questions.
+
+Task or module for random generation
+
+Creating the test as a user
