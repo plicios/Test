@@ -1,0 +1,14 @@
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\bin\Debug\netcoreapp2.1\TSD-TestGenerator.deps.json
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\bin\Debug\netcoreapp2.1\TSD-TestGenerator.runtimeconfig.json
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\bin\Debug\netcoreapp2.1\TSD-TestGenerator.runtimeconfig.dev.json
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\bin\Debug\netcoreapp2.1\TSD-TestGenerator.dll
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\bin\Debug\netcoreapp2.1\TSD-TestGenerator.pdb
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\obj\Debug\netcoreapp2.1\TSD-TestGenerator.csprojAssemblyReference.cache
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\obj\Debug\netcoreapp2.1\TSD-TestGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\obj\Debug\netcoreapp2.1\TSD-TestGenerator.RazorAssemblyInfo.cache
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\obj\Debug\netcoreapp2.1\TSD-TestGenerator.RazorAssemblyInfo.cs
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\obj\Debug\netcoreapp2.1\TSD-TestGenerator.AssemblyInfoInputs.cache
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\obj\Debug\netcoreapp2.1\TSD-TestGenerator.AssemblyInfo.cs
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\obj\Debug\netcoreapp2.1\TSD-TestGenerator.RazorTargetAssemblyInfo.cache
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\obj\Debug\netcoreapp2.1\TSD-TestGenerator.dll
+C:\Users\Marta\Documents\PIOTR\test-generator\Server\TSD-TestGenerator\obj\Debug\netcoreapp2.1\TSD-TestGenerator.pdb
